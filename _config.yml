@@ -1,0 +1,28 @@
+name: Pablic Enemy
+favicon: null
+layout_spectrum: 0.981746684294194
+typography_spectrum: 0.9532629102468491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5898807144258171
+  lightness: 0.695304054999724
+  saturation: 0.3715467592701316
+  rhythmicContrast: 0.989964073523879
+purpose: []
